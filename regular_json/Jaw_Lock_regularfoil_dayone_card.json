@@ -1,0 +1,42 @@
+{
+  "sip": 16,
+  "image": "arweave.net/{id}",
+  "name": "Jaw Lock",
+  "attributes": [
+    {
+      "trait_type": "Card Planet",
+      "display_type": "string",
+      "value": "Vega"
+    },
+    {
+      "trait_type": "Card Class",
+      "display_type": "string",
+      "value": "Brute"
+    },
+    {
+      "trait_type": "Health",
+      "display_type": "number",
+      "value": 180
+    },
+    {
+      "trait_type": "Punch",
+      "display_type": "number",
+      "value": 70
+    },
+    {
+      "trait_type": "Kick",
+      "display_type": "number",
+      "value": 70
+    },
+    {
+      "trait_type": "Slam",
+      "display_type": "number",
+      "value": 80
+    }
+  ],
+  "properties": {
+    "collection": "Day One",
+    "total_supply": "1000",
+    "category": "regular foil"
+  }
+}
